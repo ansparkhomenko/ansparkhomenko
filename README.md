@@ -1,5 +1,5 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif"  width="800" height="100">
-<h1 align="center">Hi there, I'm Anton</a> 
+<h1 align="center">#Привет, меня зовут Антон!</a> 
 
 <h3 align="center">QA Engineer</h3>
 
